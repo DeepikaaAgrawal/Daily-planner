@@ -41,18 +41,3 @@ The Daily Planner App offered in this repository is a user-friendly application 
     ├── index.html
     └── scripts/
         └── script.js
-
-```
-
----
-
-
-
-
-
-
-This project is licensed under the `ℹ️ MIT-License`. See the [MIT License](https://github.com/pmAdriaan/daily-planner-app/blob/main/LICENSE) file for additional info.
-
-[**Return**](#Top)
-
----
